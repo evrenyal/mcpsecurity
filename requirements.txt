@@ -1,0 +1,6 @@
+requests
+psutil
+uvicorn
+fastapi
+fastapi-jsonrpc
+mcp[cli] @ git+https://github.com/modelcontextprotocol/python-sdk.git@main
