@@ -1,4 +1,4 @@
-# MCP Vulnerable App
+# Vulnerable MCP Server
 
 This project is an intentionally vulnerable **MCP (Model Context Protocol)** app, designed for **security research**. 
 
